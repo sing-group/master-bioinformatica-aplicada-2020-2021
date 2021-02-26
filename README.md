@@ -23,7 +23,7 @@ The theory slides are available [here](resources/theory-machinelearning.pdf).
 Run the following comands to pull the Docker images for the hands-on practices:
 
 ```bash
-docker pull singgroup/r-machine-learning:2020-2021
+docker pull singgroup/jupyter-machine-learning:2020-2021
 docker pull singgroup/jupyter-tensorflow-notebook
 ```
 
